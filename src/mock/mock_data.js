@@ -140,6 +140,13 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1766942944183",
+          "name": "U刻得",
+          "url": "https://www.ucloud.cn/",
+          "description": "还算便宜的云服务器",
+          "icon": "https://www.faviconextractor.com/favicon/www.ucloud.cn"
         }
       ]
     },
@@ -481,7 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "个人导航站🐱",
-  "_fileSha": "3fe7d7a94b675a29c2d3cccabe93b1f5e5847637",
-  "search": "google"
+  "title": "个人导航站🐱"
 }
