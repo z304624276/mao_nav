@@ -452,10 +452,17 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1767109886529",
+      "icon": "📊",
+      "name": "我的阅读",
+      "order": 10,
+      "sites": []
+    },
+    {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "notion",
@@ -486,13 +493,6 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
-    },
-    {
-      "id": "category-1767109886529",
-      "icon": "📊",
-      "name": "我的阅读",
-      "order": 11,
-      "sites": []
     }
   ],
   "title": "超哥私人导航站"
