@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://www.youtube.com/",
           "description": "油管",
           "icon": "https://www.faviconextractor.com/favicon/www.youtube.com"
+        },
+        {
+          "id": "site-1767110049192",
+          "name": "Google邮箱",
+          "url": "https://mail.google.com/",
+          "description": "Google邮箱",
+          "icon": "https://www.faviconextractor.com/favicon/mail.google.com"
         }
       ]
     },
