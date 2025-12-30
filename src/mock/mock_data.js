@@ -42,11 +42,18 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.itdog.cn"
         },
         {
-          "id": "site-1767111564265",
-          "name": "狗云",
-          "url": "https://www.dogyun.com/",
-          "description": "狗云（免实名）",
-          "icon": "https://www.faviconextractor.com/favicon/www.dogyun.com"
+          "id": "site-1767111653201",
+          "name": "免费域名",
+          "url": "https://my.dnshe.com/clientarea.php",
+          "description": "de5.net免费域名",
+          "icon": "https://www.faviconextractor.com/favicon/my.dnshe.com"
+        },
+        {
+          "id": "site-1767111705097",
+          "name": "免费域名",
+          "url": "https://dash.domain.digitalplat.org/",
+          "description": "dpdns.org免费域名",
+          "icon": "https://www.faviconextractor.com/favicon/dash.domain.digitalplat.org"
         }
       ]
     },
@@ -118,6 +125,13 @@ export const mockData = {
           "url": "https://prolxy.com/",
           "description": "量芯云",
           "icon": "https://www.faviconextractor.com/favicon/prolxy.com"
+        },
+        {
+          "id": "site-1767111564265",
+          "name": "狗云",
+          "url": "https://www.dogyun.com/",
+          "description": "狗云（免实名）",
+          "icon": "https://www.faviconextractor.com/favicon/www.dogyun.com"
         }
       ]
     },
