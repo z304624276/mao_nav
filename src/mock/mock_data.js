@@ -489,5 +489,6 @@ export const mockData = {
     }
   ],
   "title": "超哥专用导航站",
-  "_fileSha": "20e05189850a7b046caa5a985c82497ee02342e0"
+  "_fileSha": "c592bfc0b6ed1c5b9ab119a870eac0895c4277ad",
+  "search": "google"
 }
