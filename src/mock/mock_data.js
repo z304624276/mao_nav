@@ -260,6 +260,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1767111841641",
+          "name": "Echarts",
+          "url": "https://echarts.apache.org/zh/index.html",
+          "description": "数据大屏用",
+          "icon": "https://www.faviconextractor.com/favicon/echarts.apache.org"
         }
       ]
     },
