@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://mail.google.com/",
           "description": "Google邮箱",
           "icon": "https://www.faviconextractor.com/favicon/mail.google.com"
+        },
+        {
+          "id": "site-1767110195137",
+          "name": "itdog测速",
+          "url": "https://www.itdog.cn/tcping",
+          "description": "网站测速",
+          "icon": "https://www.faviconextractor.com/favicon/www.itdog.cn"
         }
       ]
     },
