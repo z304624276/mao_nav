@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://www.itdog.cn/tcping",
           "description": "网站测速",
           "icon": "https://www.faviconextractor.com/favicon/www.itdog.cn"
+        },
+        {
+          "id": "site-1767111564265",
+          "name": "狗云",
+          "url": "https://www.dogyun.com/",
+          "description": "狗云（免实名）",
+          "icon": "https://www.faviconextractor.com/favicon/www.dogyun.com"
         }
       ]
     },
@@ -97,6 +104,20 @@ export const mockData = {
           "url": "https://www.ucloud.cn/",
           "description": "还算便宜的云服务器",
           "icon": "https://www.faviconextractor.com/favicon/www.ucloud.cn"
+        },
+        {
+          "id": "site-1767111485625",
+          "name": "野草云",
+          "url": "https://www.yecaoyun.com/",
+          "description": "野草云（免实名）",
+          "icon": "https://www.faviconextractor.com/favicon/www.yecaoyun.com"
+        },
+        {
+          "id": "site-1767111524737",
+          "name": "量芯云",
+          "url": "https://prolxy.com/",
+          "description": "量芯云",
+          "icon": "https://www.faviconextractor.com/favicon/prolxy.com"
         }
       ]
     },
@@ -147,6 +168,13 @@ export const mockData = {
           "url": "https://chatgpt.com",
           "description": "OpenAI,好用👌",
           "icon": "/sitelogo/chatgpt.com.ico"
+        },
+        {
+          "id": "site-1767111264353",
+          "name": "阿里千问",
+          "url": "https://chat.qwen.ai/",
+          "description": "千问AI",
+          "icon": "https://assets.alicdn.com/g/qwenweb/qwen-chat-fe/0.1.29/favicon.png"
         }
       ]
     },
