@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://www.cloudflare.com",
           "description": "全球CDN和网络安全服务",
           "icon": "/sitelogo/www.cloudflare.com.ico"
+        },
+        {
+          "id": "site-1767109971496",
+          "name": "YouTube",
+          "url": "https://www.youtube.com/",
+          "description": "油管",
+          "icon": "https://www.faviconextractor.com/favicon/www.youtube.com"
         }
       ]
     },
