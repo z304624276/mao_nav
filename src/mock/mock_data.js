@@ -486,6 +486,13 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1767109886529",
+      "icon": "📊",
+      "name": "我的阅读",
+      "order": 11,
+      "sites": []
     }
   ],
   "title": "超哥私人导航站"
