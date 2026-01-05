@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://dash.domain.digitalplat.org/",
           "description": "dpdns.org免费域名",
           "icon": "https://www.faviconextractor.com/favicon/dash.domain.digitalplat.org"
+        },
+        {
+          "id": "site-1767596271273",
+          "name": "免费图片处理",
+          "url": "https://www.aconvert.com/cn/",
+          "description": "图片视频处理转换格式等",
+          "icon": "https://www.faviconextractor.com/favicon/www.aconvert.com"
         }
       ]
     },
