@@ -353,6 +353,13 @@ export const mockData = {
           "url": "https://www.adobe.com/products/xd.html",
           "description": "用户体验设计工具",
           "icon": "/sitelogo/www.adobe.com.ico"
+        },
+        {
+          "id": "site-1767605591586",
+          "name": "蓝湖",
+          "url": "https://lanhuapp.com/",
+          "description": "蓝湖",
+          "icon": "https://www.faviconextractor.com/favicon/lanhuapp.com"
         }
       ]
     },
