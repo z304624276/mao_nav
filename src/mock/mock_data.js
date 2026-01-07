@@ -61,6 +61,13 @@ export const mockData = {
           "url": "https://www.aconvert.com/cn/",
           "description": "图片视频处理转换格式等",
           "icon": "https://www.faviconextractor.com/favicon/www.aconvert.com"
+        },
+        {
+          "id": "site-1767794917356",
+          "name": "字体优化",
+          "url": "https://www.fontspider.vip/",
+          "description": "网页字体优化精简",
+          "icon": "https://www.faviconextractor.com/favicon/www.fontspider.vip"
         }
       ]
     },
