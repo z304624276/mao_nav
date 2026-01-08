@@ -146,6 +146,13 @@ export const mockData = {
           "url": "https://www.dogyun.com/",
           "description": "狗云（免实名）",
           "icon": "https://www.faviconextractor.com/favicon/www.dogyun.com"
+        },
+        {
+          "id": "site-1767859047835",
+          "name": "EdgeOne",
+          "url": "https://edgeone.ai/zh",
+          "description": "腾讯云edgeone国际版，免费CDN",
+          "icon": "https://www.faviconextractor.com/favicon/edgeone.ai"
         }
       ]
     },
