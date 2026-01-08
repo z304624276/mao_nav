@@ -288,6 +288,13 @@ export const mockData = {
           "url": "https://echarts.apache.org/zh/index.html",
           "description": "数据大屏用",
           "icon": "https://www.faviconextractor.com/favicon/echarts.apache.org"
+        },
+        {
+          "id": "site-1767871771188",
+          "name": "Supabase",
+          "url": "https://supabase.com/docs",
+          "description": "超强后端",
+          "icon": "https://www.faviconextractor.com/favicon/supabase.com"
         }
       ]
     },
