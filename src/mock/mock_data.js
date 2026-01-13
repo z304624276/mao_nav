@@ -153,6 +153,20 @@ export const mockData = {
           "url": "https://edgeone.ai/zh",
           "description": "腾讯云edgeone国际版，免费CDN",
           "icon": "https://www.faviconextractor.com/favicon/edgeone.ai"
+        },
+        {
+          "id": "site-1768287401222",
+          "name": "zeabur服务器",
+          "url": "https://zeabur.com/",
+          "description": "zeabur服务器免费部署docker",
+          "icon": "https://www.faviconextractor.com/favicon/zeabur.com"
+        },
+        {
+          "id": "site-1768287491135",
+          "name": "爪子云",
+          "url": "https://ap-southeast-1.run.claw.cloud/",
+          "description": "免费部署docker",
+          "icon": "https://www.faviconextractor.com/favicon/run.claw.cloud"
         }
       ]
     },
