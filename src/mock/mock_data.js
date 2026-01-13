@@ -481,6 +481,13 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "/sitelogo/www.coursera.org.ico"
+        },
+        {
+          "id": "site-1768286407470",
+          "name": "gemini balance",
+          "url": "https://gb-docs.snaily.top/guide/setup-zeabur.html",
+          "description": "gemini balance部署",
+          "icon": "https://www.faviconextractor.com/favicon/gb-docs.snaily.top"
         }
       ]
     },
