@@ -174,6 +174,13 @@ export const mockData = {
           "url": "https://ap-southeast-1.run.claw.cloud/",
           "description": "免费部署docker",
           "icon": "https://www.faviconextractor.com/favicon/run.claw.cloud"
+        },
+        {
+          "id": "site-1768309086393",
+          "name": "netlify",
+          "url": "https://www.netlify.com/",
+          "description": "静态网站或pages部署网站",
+          "icon": "https://www.faviconextractor.com/favicon/www.netlify.com"
         }
       ]
     },
