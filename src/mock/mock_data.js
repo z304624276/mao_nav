@@ -68,6 +68,13 @@ export const mockData = {
           "url": "https://www.fontspider.vip/",
           "description": "网页字体优化精简",
           "icon": "https://www.faviconextractor.com/favicon/www.fontspider.vip"
+        },
+        {
+          "id": "site-1768287718486",
+          "name": "elestio/pocketbase",
+          "url": "https://hub.docker.com/r/elestio/pocketbase",
+          "description": "elestio/pocketbase镜像仓库docker版",
+          "icon": "https://www.faviconextractor.com/favicon/hub.docker.com"
         }
       ]
     },
@@ -309,6 +316,13 @@ export const mockData = {
           "url": "https://supabase.com/docs",
           "description": "超强后端",
           "icon": "https://www.faviconextractor.com/favicon/supabase.com"
+        },
+        {
+          "id": "site-1768287687904",
+          "name": "docker仓库",
+          "url": "https://hub.docker.com/",
+          "description": "docker仓库要梯子",
+          "icon": "https://www.faviconextractor.com/favicon/hub.docker.com"
         }
       ]
     },
