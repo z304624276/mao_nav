@@ -430,6 +430,13 @@ export const mockData = {
           "url": "https://lanhuapp.com/",
           "description": "蓝湖",
           "icon": "https://www.faviconextractor.com/favicon/lanhuapp.com"
+        },
+        {
+          "id": "site-1768452502074",
+          "name": "ai设计",
+          "url": "https://stitch.withgoogle.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/stitch.withgoogle.com"
         }
       ]
     },
