@@ -75,6 +75,13 @@ export const mockData = {
           "url": "https://1ms.run/r/elestio/pocketbase",
           "description": "国内pocketbase镜像仓库",
           "icon": "https://www.faviconextractor.com/favicon/1ms.run"
+        },
+        {
+          "id": "site-1768619115362",
+          "name": "私人图床",
+          "url": "https://img.ludageek.de5.net/",
+          "description": "用于外链图片，可以节省博客空间",
+          "icon": "https://www.faviconextractor.com/favicon/img.ludageek.de5.net"
         }
       ]
     },
